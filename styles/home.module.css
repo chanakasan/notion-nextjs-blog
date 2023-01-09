@@ -9,3 +9,17 @@
   border-bottom: 1px solid #efefef;
   margin: 3em auto;
 }
+
+.header {
+  padding: 20px;
+  margin-bottom: 20px;
+  height: 60px;
+  border-bottom: 1px solid #888;
+}
+
+.footer {
+  padding: 20px;
+  margin-top: 20px;
+  height: 60px;
+  border-top: 1px solid #888;
+}

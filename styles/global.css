@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #18181f;
+    color: #eee;
+}
+
+pre {
+    margin: 20px 0;
+    line-height: 2.3;
+    border-radius: 12px;
+    overflow: auto;
+    background-color: #0f081c;
+}
+
+pre > code {
+    padding: 20px;
+    font-family: monospace;
+    display: flex;
+    flex-wrap: wrap;
+  }
